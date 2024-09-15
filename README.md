@@ -1,2 +1,2 @@
 # CSVFile_convrsion
-Image dataset convert into CSV file
+Image dataset in JPG and JPEG format convert into CSV file.
